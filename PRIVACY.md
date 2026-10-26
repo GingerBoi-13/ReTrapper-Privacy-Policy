@@ -1,7 +1,7 @@
 # Privacy Policy
 
-**Applies to:** ReTrapper (including its Bug report page) and the ReTrapper Bug Report companion (Chromium and Firefox versions)
-**Last updated:** October 11, 2026
+**Applies to:** ReTrapper (including its Bug report page) and the ReTrapper Bug Report companion (Chromium)
+**Last updated:** October 26, 2026
 
 ## The short version
 
@@ -15,6 +15,7 @@ ReTrapper saves the following in your browser's local extension storage so your 
 
 - Your settings (which options are on or off, and any lists you type, such as blocked keywords or custom CSS)
 - Saved presets
+- Your page order, settings-page order and starred settings page, and your Watch Later sort choice
 - An optional popup password, saved only as a salted hash, never as the password itself
 - The playback speed you chose for each channel, if you use that option
 - A daily time-on-YouTube counter, if you use the time-limit options
